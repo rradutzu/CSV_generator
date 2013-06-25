@@ -1,0 +1,4 @@
+csv_generator:
+    resource: "@CSVGeneratorBundle/Resources/config/routing.yml"
+    prefix:   /
+

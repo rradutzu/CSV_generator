@@ -1,0 +1,7 @@
+parameters:
+#    csv_generator.example.class: CSV\CSVGenerator\CSVBundle\Example
+
+services:
+#    csv_generator.example:
+#        class: %csv_generator.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
